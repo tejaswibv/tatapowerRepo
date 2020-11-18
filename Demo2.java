@@ -1,1 +1,3 @@
-class Demo2{}
+class Demo2{
+ public void func() {}
+}
