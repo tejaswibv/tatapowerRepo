@@ -1,1 +1,3 @@
-class Demo5{}
+class Demo5{
+public Demo5(){}
+}
