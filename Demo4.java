@@ -1,1 +1,3 @@
-class Demo4 {}
+class Demo4 {
+//add some functionality
+}
