@@ -5,5 +5,9 @@ public Demo5(){
 
 //comment2
 
+
+
+int i;
+
 }
 }
