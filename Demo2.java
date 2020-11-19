@@ -6,5 +6,8 @@ class Demo2{
 
 	public void f2() {}
 
+
+
+
  }
 }
